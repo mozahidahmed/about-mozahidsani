@@ -1,0 +1,116 @@
+span{
+
+color:orange;
+
+}
+
+h1{
+ font-size: 60px;   
+}
+
+h2{
+    font-size: 40px;   
+   }
+
+
+   .sectionmoza{
+
+display: flex;
+
+   }
+
+   .half-width1{
+width: 50%;
+text-align: justify;
+margin-left: 30px;
+   }
+
+   .half-width1 img{
+width: 50%;
+ 
+   }
+
+    .moza1{
+
+font-weight: bold;
+font-size: 20px;
+    }
+   
+
+    .conta{
+color: papayawhip;
+background-image:linear-gradient(orange,tomato);
+padding: 5px 20px;
+text-decoration: none;
+border-radius: 5px;
+    }
+
+    .sesbackground{
+
+
+background-image: url(img-mozahidsni/20220104_120447.jpg);
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .half-width2{
+      width: 50%;
+      text-align: justify;
+      margin-right: 30px;
+         }
+      
+         .half-width2 img{
+      width: 50%;
+      margin-left: 60px;
+         }
+
+        .mozafull{
+
+
+background-color: rgb(196, 180, 151);
+
+        }
+
+
+
+
+
+        .emozahid{
+
+font-size:60px;
+
+
+        }
+
+        .half-width3{
+         width: 50%;
+         text-align: justify;
+         margin-left: 30px;
+         box-shadow: 10px 10px 20px rgb(46, 18, 18);
+          padding: 20px;
+         border-left: 5px solid rgb(145, 12, 12);
+
+            }
+
+
+            .sectionmoza{
+
+background-image: url(img-mozahidsni/20220104_120447.jpg);
+
+            }
+
+
+            footer{
+
+text-align: center;
+margin-top: 30px;
+            }
